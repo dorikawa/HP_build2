@@ -204,7 +204,7 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="https://dorikawa.github.io/HP_build/20210709_018.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_018.png" alt="サンプル画像" width="900" /></a>
 </div>
 
-<br><br>
+<br>
 <div style="background-color:rgba(255,255,0,0.6)"> 
 <p><h2><marquee scrollamount="16">では、何か変更したら、最下段の緑のボタンを押すのを忘れずに！</marquee></h2></p>
 </div>
