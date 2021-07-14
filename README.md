@@ -151,15 +151,15 @@ a.p:hover span {
 <div style="background-color:rgba(128,255,255,0.8)"> 
 <p><h2>ここからが本番で、README.fileにソースコードを書き込んでいきます。<br>
 ただし、初めてでは難易度が高いので、以下のコードをコピペして使います。</h2></p>
-<p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます・・・承認動作になる場合は承認しますので、ご請求下さい。</a></p>
+<p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます。</a></p>
 
-
-</div>
 
 <p><h2>作成段階でREADME.fileだったものは、README.meになっていますが、これの鉛筆マーククリックでソースコードをペーストします。<br>
 この段階で市民大会の動画配信したページと同じものができています。</h2></p>
 
 <a href="https://dorikawa.github.io/HP_build/20210709_007.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_007.png" alt="サンプル画像" width="900" /></a>
+</div>
+
 <p><h2>では、肝心のYoutube動画のリンク方法です。<br>
 Youtubeにアップされている動画の閲覧画面下、共有ボタンを押します。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_010.jpg" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_010.jpg" alt="サンプル画像" width="900" /></a>
@@ -211,7 +211,7 @@ URLのクリックでHPとして開きます。</h2></p>
 ここまで読んでいただきありがとうございました！</h2></p>
 
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></span></h2></p>
-<p align="left"> <img src="qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
+<p align="left"> <img src="https://dorikawa.github.io/HP_build/qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
 
 <br><br><br><br>
 <p><h2>最後にそこかしこに出てくるネコですが、<br>
