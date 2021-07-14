@@ -124,7 +124,7 @@ p.note { display: none; }
 
 
 <!--ここから下が、本体部分-->
-<div style="background-color:#EDF7FF;"> 
+<div style="background-color:rgba(128,255,255,0.8)"> 
 <br><p>HPの作り方を簡単に説明します。<br>HPというのは大まかにいうと以下の２つの事で出来ています。<br>１，インターネットにつながったサーバー<br>
 ２，サーバー内に記載したHTMLソースコード<br>では、この二つを説明していきます。</p>
 
@@ -133,6 +133,8 @@ p.note { display: none; }
 <br><br><p>では、１，のサーバーの確保です。<br>以下のリンクに飛んでGithubのアカウントを作りますが、ドリームかわちメンバーの皆様はこのアカウントをお使いいただいてもかまいません。<br>リンク先のSign inでユーザー：dorikawa, パスワード：doridori2021, で入れます。</p>
 <p><a href="https://github.com/">Githubリンクhttps://github.com/</a><br>すでにアカウントをお持ちの場合は、ご自分のアカウントに飛ぶようです。</p>
 
+  </div> 
+  
 <br><br><p>１，の続きですが、Githubのアカウント内にリポジトリ（≒HP）を作ります。</p>
 <p><h2>では、新しいリポジトリを作ってみましょう。<br>
 以下のようにクリックして、</h2></p>
