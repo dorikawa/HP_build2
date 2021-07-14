@@ -183,9 +183,9 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 </div>
 
 <div style="background-color:rgba(0,255,0,0.5)"> 
-ここからは、このHPでも多用した静止画像の配置方法です。<br>
+<p><h2>ここからは、このHPでも多用した静止画像の配置方法です。<br>
 背景画像もこれに含まれます。<br>
-<p><h2>最初にPC内に作った静止画像をリポジトリにアップします。</h2></p>
+最初にPC内に作った静止画像をリポジトリにアップします。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_008.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_008.png" alt="サンプル画像" width="900" /></a>
 <p><h2>アップロード動作が終わったら、緑のボタンを押して静止画の追加完了。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_009.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_009.png" alt="サンプル画像" width="900" /></a>
@@ -205,7 +205,9 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 </div>
 
 <br><br>
+<div style="background-color:rgba(0,255,0,0.5)"> 
 <p><h2>では、何か変更したら、最下段の緑のボタンを押すのを忘れずに！</h2></p>
+</div>
 
 <div style="background-color:rgba(255,255,0,0.6)"> 
 <p><h2>最後にリポジトリに記載したHTMLソースコードをHPとして公開する方法の説明です。<br>
@@ -236,7 +238,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 気になる方は、以下のリンクから購入できますので、よろしければどうぞ！</h2></p>
 <p><a href="https://thegithubshop.com/">Githubのグッズ販売へのリンク</a></p>
 <p><h2>こんなのが売られています。</h2></p>
-<a href="20210709_017.png" data-lightbox="abc"><img src="20210709_017.png" alt="サンプル画像" width="900" /></a>
+<a href="https://dorikawa.github.io/HP_build/20210709_017.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_017.png" alt="サンプル画像" width="900" /></a>
 
 <br><br>
 
@@ -249,12 +251,10 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 
 <div style="background-color:rgba(128,255,255,0.8)"> 
 
+<!--
 <p>おまけ、背景原画</p>
 <a href="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
-<br><br><p>おまけ、豆知識、IT関連情報</p>
-<h2><a href="https://dorikawa.github.io/HP_build/" target="_blank" rel="noopener noreferrer">QRコードの作り方などIT関連情報へのリンクが新規タブで開きます。</a></h2>
-<br><br><p>おまけ、2019年市民大会反省会、暑気払い飲み会</p>
-<h2><a href="https://peyng.github.io/dream/" target="_blank" rel="noopener noreferrer">反省会の終盤にお隣の火事で追い出された、いわく付きの記録。</a></h2>
+-->
 
 <br><br><br><p>さらにおまけ、瀧田先生の「森のくるまやさん」</p>
 <h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。</a></h2>
