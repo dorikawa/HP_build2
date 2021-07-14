@@ -152,7 +152,8 @@ a.p:hover span {
 <p><h2>ここからが本番で、README.fileにソースコードを書き込んでいきます。<br>
 ただし、初めてでは難易度が高いので、以下のコードをコピペして使います。</h2></p>
 <p><h2>リンク先に飛ぶと以下のようなソースコードが開きますが、<br>
-実際にいじるのは、黄色の吹き出しがある部分だけです。</h2></p>
+実際にいじるのは、黄色の吹き出しがある部分だけです。<br>
+背景指定はURLになっていますが、同じリポジトリ内のファイル(アップロード方法は後述)ならファイル名の指定だけでOKです。</h2></p>
 <a href="20210714_001.png" data-lightbox="abc"><img src="20210714_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20210714_002.png" data-lightbox="abc"><img src="20210714_002.png" alt="サンプル画像" width="900" /></a>
 <p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます。</a></p>
