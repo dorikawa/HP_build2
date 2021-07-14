@@ -151,10 +151,14 @@ a.p:hover span {
 <div style="background-color:rgba(128,255,255,0.8)"> 
 <p><h2>ここからが本番で、README.fileにソースコードを書き込んでいきます。<br>
 ただし、初めてでは難易度が高いので、以下のコードをコピペして使います。</h2></p>
+<p><h2>リンク先に飛ぶと以下のようなソースコードが開きますが、<br>
+実際にいじるのは、黄色の吹き出しがある部分だけです。</h2></p>
+<a href="20210714_001.png" data-lightbox="abc"><img src="20210714_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20210714_002.png" data-lightbox="abc"><img src="20210714_002.png" alt="サンプル画像" width="900" /></a>
 <p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます。</a></p>
 
 
-<p><h2>作成段階でREADME.fileだったものは、README.meになっていますが、これの鉛筆マーククリックでソースコードをペーストします。<br>
+<p><h2>以下の操作でリンク先のコードをコピペしますが、作成段階でREADME.fileだったものは、README.meになっています。これの鉛筆マーククリックでソースコードをペーストします。<br>
 この段階で市民大会の動画配信したページと同じものができています。</h2></p>
 
 <a href="https://dorikawa.github.io/HP_build/20210709_007.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_007.png" alt="サンプル画像" width="900" /></a>
