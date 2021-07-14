@@ -153,6 +153,9 @@ a.p:hover span {
 ただし、初めてでは難易度が高いので、以下のコードをコピペして使います。</h2></p>
 <p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます・・・承認動作になる場合は承認しますので、ご請求下さい。</a></p>
 
+
+</div>
+
 <p><h2>作成段階でREADME.fileだったものは、README.meになっていますが、これの鉛筆マーククリックでソースコードをペーストします。<br>
 この段階で市民大会の動画配信したページと同じものができています。</h2></p>
 
