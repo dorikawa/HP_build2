@@ -185,7 +185,7 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 
 <div style="background-color:rgba(0,255,0,0.5)"> 
 <p><h2>ここからは、このHPでも多用した静止画像の配置方法です。<br>
-最初にPC内に作った静止画像をリポジトリにアップします。<br>
+最初にPC内にある(必要な画像を事前に作ってある前提)静止画像をリポジトリにアップします。<br>
 リポジトリ内にアップしてあれば、ファイルネームの指定だけで参照できます。<br>
 背景に使う画像も同じ方法でアップします。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_008.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_008.png" alt="サンプル画像" width="900" /></a>
