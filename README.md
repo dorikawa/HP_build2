@@ -164,6 +164,7 @@ a.p:hover span {
 <a href="https://dorikawa.github.io/HP_build/20210709_007.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_007.png" alt="サンプル画像" width="900" /></a>
 </div>
 
+<div style="background-color:rgba(255,255,0,0.6)"> 
 <p><h2>では、肝心のYoutube動画のリンク方法です。<br>
 Youtubeにアップされている動画の閲覧画面下、共有ボタンを押します。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_010.jpg" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_010.jpg" alt="サンプル画像" width="900" /></a>
@@ -178,8 +179,9 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <p><h2>最初にコピペしたHPのソースコード中段に並んでいるものがこれです。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_013.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_013.png" alt="サンプル画像" width="900" /></a>
 
-
 <p><h2>動画に対応していないGithubでの動画共有はYoutube頼みになります。<br><br>
+<div>	
+
 ここからは、このHPでも多用した静止画像の配置方法です。<br>
 背景画像もこれに含まれます。<br>
 最初にPC内に作った静止画像をリポジトリにアップします。</h2></p>
