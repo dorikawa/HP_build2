@@ -138,7 +138,7 @@ a.p:hover span {
 	</div>
  
 <div style="background-color:rgba(0,255,0,0.5)"> 
-<br><br><p>１，の続きですが、Githubのアカウント内にリポジトリ（≒HP）を作ります。</p>
+<p>１，の続きですが、Githubのアカウント内にリポジトリ（≒HP）を作ります。</p>
 <p><h2>では、新しいリポジトリを作ってみましょう。<br>
 以下のようにクリックして、</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_006.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_006.png" alt="サンプル画像" width="900" /></a>
@@ -156,8 +156,8 @@ a.p:hover span {
 
 <div style="background-color:rgba(128,255,255,0.8)"> 
 
-<br><br><p>おまけ、背景原画</p>
-<a href="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
+<p>おまけ、背景原画</p>
+<a href="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
 <br><br><p>おまけ、豆知識、IT関連情報</p>
 <h2><a href="https://dorikawa.github.io/HP_build/" target="_blank" rel="noopener noreferrer">QRコードの作り方などIT関連情報へのリンクが新規タブで開きます。</a></h2>
 <br><br><p>おまけ、2019年市民大会反省会、暑気払い飲み会</p>
