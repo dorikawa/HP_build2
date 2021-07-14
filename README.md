@@ -192,7 +192,7 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="https://dorikawa.github.io/HP_build/20210709_008.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_008.png" alt="サンプル画像" width="900" /></a>
 <p><h2>アップロード動作が終わったら、緑のボタンを押して静止画の追加完了。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_009.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_009.png" alt="サンプル画像" width="900" /></a>
-<p><h2>Codeボタンを押した時に見える**.pngや**jpgが静止画像のファイルです。</h2></p>
+<p><h2>Codeボタンを押した時に見える「＊.png」や「＊.jpg」が静止画像のファイルです。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_014.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_014.png" alt="サンプル画像" width="900" /></a>
 </div>
 
