@@ -180,13 +180,14 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <p><h2>最初にコピペしたHPのソースコード中段に並んでいるものがこれです。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_013.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_013.png" alt="サンプル画像" width="900" /></a>
 
-<p><h2>動画に対応していないGithubでの動画共有はYoutube頼みになります。</h2></p>
+<p><h2>Githubは動画共有に対応していないので、動画の配信はYoutubeを活用します。</h2></p>
 </div>
 
 <div style="background-color:rgba(0,255,0,0.5)"> 
 <p><h2>ここからは、このHPでも多用した静止画像の配置方法です。<br>
-背景画像もこれに含まれます。<br>
-最初にPC内に作った静止画像をリポジトリにアップします。</h2></p>
+最初にPC内に作った静止画像をリポジトリにアップします。<br>
+リポジトリ内にアップしてあれば、ファイルネームの指定だけで参照できます。<br>
+背景に使う画像も同じ方法でアップします。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_008.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_008.png" alt="サンプル画像" width="900" /></a>
 <p><h2>アップロード動作が終わったら、緑のボタンを押して静止画の追加完了。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_009.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_009.png" alt="サンプル画像" width="900" /></a>
