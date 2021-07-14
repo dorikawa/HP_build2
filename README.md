@@ -270,7 +270,9 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-
+<h6>
+<p align="right"> <span class="snow">背景は7月初旬の紫陽花！</span></p>
+</h6>
 <!-- フッタ -->
 <footer>
 	<span class="white"> 2021/07/15 S.Hada</span>
