@@ -176,7 +176,7 @@ a.p:hover span {
 
 <!-- フッタ -->
 <footer>
-Copyright 2021/07/15 S.Hada
+	<span class="white"> 2021/07/15 S.Hada</span>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
