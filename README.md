@@ -261,7 +261,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 
 <div style="background-color:rgba(128,255,255,0.8)"> 
 <p>おまけ、瀧田先生の「森のくるまやさん」リンク</p>
-<h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。オプション部品は¥200とのこと。</a></h2>
+<h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。<br>オプション部品は¥200とのこと。</a></h2>
 </div>
 <!--本体はここまで-->
 
