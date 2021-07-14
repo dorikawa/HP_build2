@@ -136,7 +136,8 @@ a.p:hover span {
 <p><a href="https://github.com/">Githubリンクhttps://github.com/</a><br>すでにアカウントをお持ちの場合は、ご自分のアカウントに飛ぶようです。</p>
 
 	</div>
-  
+ 
+<div style="background-color:rgba(0,255,0,0.5)"> 
 <br><br><p>１，の続きですが、Githubのアカウント内にリポジトリ（≒HP）を作ります。</p>
 <p><h2>では、新しいリポジトリを作ってみましょう。<br>
 以下のようにクリックして、</h2></p>
@@ -145,7 +146,7 @@ a.p:hover span {
 下の二箇所にチェックを入れます。最後に一番下の緑のボタンを押して作成完了です。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_002.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_002.png" alt="サンプル画像" width="900" /></a>
 
-
+</div>
 
 
 
