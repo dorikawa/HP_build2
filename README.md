@@ -149,8 +149,83 @@ a.p:hover span {
 </div>
 
 <div style="background-color:rgba(128,255,255,0.8)"> 
+<p><h2>ここからが本番で、README.fileにソースコードを書き込んでいきます。<br>
+ただし、初めてでは難易度が高いので、以下のコードをコピペして使います。</h2></p>
+<p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます・・・承認動作になる場合は承認しますので、ご請求下さい。</a></p>
+
+<p><h2>作成段階でREADME.fileだったものは、README.meになっていますが、これの鉛筆マーククリックでソースコードをペーストします。<br>
+この段階で市民大会の動画配信したページと同じものができています。</h2></p>
+
+<a href="https://dorikawa.github.io/HP_build/20210709_007.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_007.png" alt="サンプル画像" width="900" /></a>
+<p><h2>では、肝心のYoutube動画のリンク方法です。<br>
+Youtubeにアップされている動画の閲覧画面下、共有ボタンを押します。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_010.jpg" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_010.jpg" alt="サンプル画像" width="900" /></a>
+<p><h2>ダイアログの中、埋め込むを選びます。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_011.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_011.png" alt="サンプル画像" width="900" /></a>
+<p><h2>
+埋め込むで出てきたコードをコピーしてそのまま使います。<br>
+専門用語で、iframeと呼ばれている仕組みです。<br>
+そのままソースコードの中にペーストするとリンクします。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_012.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_012.png" alt="サンプル画像" width="900" /></a>
+
+<p><h2>最初にコピペしたHPのソースコード中段に並んでいるものがこれです。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_013.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_013.png" alt="サンプル画像" width="900" /></a>
 
 
+<p><h2>動画に対応していないGithubでの動画共有はYoutube頼みになります。<br><br>
+ここからは、このHPでも多用した静止画像の配置方法です。<br>
+背景画像もこれに含まれます。<br>
+最初にPC内に作った静止画像をリポジトリにアップします。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_008.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_008.png" alt="サンプル画像" width="900" /></a>
+<p><h2>アップロード動作が終わったら、緑のボタンを押して静止画の追加完了。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_009.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_009.png" alt="サンプル画像" width="900" /></a>
+<p><h2>Codeボタンを押した時に見える**.pngや**jpgが静止画像のファイルです。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_014.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_014.png" alt="サンプル画像" width="900" /></a>
+<p><h2>リポジトリ内の画像を表示するソースコードは、以下になります。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_015.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_015.png" alt="サンプル画像" width="900" /></a>
+<p><a href="https://docs.google.com/spreadsheets/d/1wnsQSTP2Vv3ncIYPWtxRlBZRESRBkq_FD-y8f3Vbwpk/edit#gid=1880997290" target="_blank" rel="noopener noreferrer">ソースコードへのリンク、別のタブで開きます。</a></p>
+
+<p><h2>リンク先のページでは、黄色いセルだけ更新すれば、青い列のコードに全て反映されますので、それをコピペするだけで使えます。<br>
+ファイルネームの付け方は、日付＋_＋３桁連番＋拡張子、20210704_001.pngみたいにしてあります。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_018.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_018.png" alt="サンプル画像" width="900" /></a>
+
+<br><br>
+<p><h2>では、何か変更したら、最下段の緑のボタンを押すのを忘れずに！</h2></p>
+
+<p><h2>最後にリポジトリに記載したHTMLソースコードをHPとして公開する方法の説明です。<br>
+以下の操作で、一般的なURLの表示までたどり着きます。<br>
+最初に上段右端のSettingを押します。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_003.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_003.png" alt="サンプル画像" width="900" /></a>
+<p><h2>下の方にスクロールして出てくる、Check it out here!を押します。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_004.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_004.png" alt="サンプル画像" width="900" /></a>
+<p><h2>以下の三つのボタンを順番に押します。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_005.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_005.png" alt="サンプル画像" width="900" /></a>
+<p><h2>変更が更新されるまでしばらく待って、ブラウザの更新ボタン(URLの横にある丸まった矢印)を押すと緑色になるので、そこにあるのがHPとして公開するURLです。<br>
+URLのクリックでHPとして開きます。</h2></p>
+<a href="https://dorikawa.github.io/HP_build/20210709_016.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_016.png" alt="サンプル画像" width="900" /></a>
+<br><br>
+<p><h2>以上、ちょっと長くなりましたがここまでの作業を順番にこなすと、無料の広告なしHPが作れます。<br>
+ここまで読んでいただきありがとうございました！</h2></p>
+
+<p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></span></h2></p>
+<p align="left"> <img src="qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
+
+<br><br><br><br>
+<p><h2>最後にそこかしこに出てくるネコですが、<br>
+Githubのメインキャラ「オクトキャット」(タコ・ねこ)です。<br>
+このHPのQRコード真ん中にも配置してあります。<br>
+Net技術者の間ではすでに当たり前のキャラで、グッズも販売されています。<br>
+気になる方は、以下のリンクから購入できますので、よろしければどうぞ！</h2></p>
+<p><a href="https://thegithubshop.com/">Githubのグッズ販売へのリンク</a></p>
+<p><h2>こんなのが売られています。</h2></p>
+<a href="20210709_017.png" data-lightbox="abc"><img src="20210709_017.png" alt="サンプル画像" width="900" /></a>
+
+<br><br>
+
+	
+	
+	
+	
 
 
 
