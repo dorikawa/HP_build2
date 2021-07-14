@@ -180,8 +180,9 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="https://dorikawa.github.io/HP_build/20210709_013.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_013.png" alt="サンプル画像" width="900" /></a>
 
 <p><h2>動画に対応していないGithubでの動画共有はYoutube頼みになります。<br><br>
-<div>	
+</div>	
 
+<div style="background-color:rgba(0,255,0,0.5)"> 
 ここからは、このHPでも多用した静止画像の配置方法です。<br>
 背景画像もこれに含まれます。<br>
 最初にPC内に作った静止画像をリポジトリにアップします。</h2></p>
@@ -190,17 +191,23 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="https://dorikawa.github.io/HP_build/20210709_009.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_009.png" alt="サンプル画像" width="900" /></a>
 <p><h2>Codeボタンを押した時に見える**.pngや**jpgが静止画像のファイルです。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_014.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_014.png" alt="サンプル画像" width="900" /></a>
+</div>
+
+<div style="background-color:rgba(128,255,255,0.8)"> 
 <p><h2>リポジトリ内の画像を表示するソースコードは、以下になります。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_015.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_015.png" alt="サンプル画像" width="900" /></a>
-<p><a href="https://docs.google.com/spreadsheets/d/1wnsQSTP2Vv3ncIYPWtxRlBZRESRBkq_FD-y8f3Vbwpk/edit#gid=1880997290" target="_blank" rel="noopener noreferrer">ソースコードへのリンク、別のタブで開きます。</a></p>
+<p><h2>ソースコードをいちいち書くのは面倒なので、自動生成するページを作りました。</h2></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1wnsQSTP2Vv3ncIYPWtxRlBZRESRBkq_FD-y8f3Vbwpk/edit#gid=1880997290" target="_blank" rel="noopener noreferrer">ソースコード自動生成ページへのリンク、別のタブで開きます。</a></p>
 
 <p><h2>リンク先のページでは、黄色いセルだけ更新すれば、青い列のコードに全て反映されますので、それをコピペするだけで使えます。<br>
 ファイルネームの付け方は、日付＋_＋３桁連番＋拡張子、20210704_001.pngみたいにしてあります。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_018.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_018.png" alt="サンプル画像" width="900" /></a>
+</div>
 
 <br><br>
 <p><h2>では、何か変更したら、最下段の緑のボタンを押すのを忘れずに！</h2></p>
 
+<div style="background-color:rgba(255,255,0,0.6)"> 
 <p><h2>最後にリポジトリに記載したHTMLソースコードをHPとして公開する方法の説明です。<br>
 以下の操作で、一般的なURLの表示までたどり着きます。<br>
 最初に上段右端のSettingを押します。</h2></p>
@@ -212,6 +219,8 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <p><h2>変更が更新されるまでしばらく待って、ブラウザの更新ボタン(URLの横にある丸まった矢印)を押すと緑色になるので、そこにあるのがHPとして公開するURLです。<br>
 URLのクリックでHPとして開きます。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_016.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_016.png" alt="サンプル画像" width="900" /></a>
+</div>
+
 <br><br>
 <p><h2>以上、ちょっと長くなりましたがここまでの作業を順番にこなすと、無料の広告なしHPが作れます。<br>
 ここまで読んでいただきありがとうございました！</h2></p>
