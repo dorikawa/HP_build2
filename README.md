@@ -154,10 +154,10 @@ a.p:hover span {
 
 
 
-
+<div style="background-color:rgba(128,255,255,0.8)"> 
 
 <br><br><p>おまけ、背景原画</p>
-<a href="https://dorikawa.github.io/HP_build/20210704_002.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
+<a href="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
 <br><br><p>おまけ、豆知識、IT関連情報</p>
 <h2><a href="https://dorikawa.github.io/HP_build/" target="_blank" rel="noopener noreferrer">QRコードの作り方などIT関連情報へのリンクが新規タブで開きます。</a></h2>
 <br><br><p>おまけ、2019年市民大会反省会、暑気払い飲み会</p>
@@ -165,7 +165,7 @@ a.p:hover span {
 
 <br><br><br><p>さらにおまけ、瀧田先生の「森のくるまやさん」</p>
 <h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。</a></h2>
-
+</div>
 <!--本体はここまで-->
 
 
