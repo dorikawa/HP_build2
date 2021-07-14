@@ -132,7 +132,7 @@ a.p:hover span {
     </div> 
 
 <div style="background-color:rgba(255,255,0,0.6)"> 
-<p>では、１，のサーバーの確保です。<br>以下のリンクに飛んでGithubのアカウントを作りますが、ドリームかわちメンバーの皆様はこのアカウントをお使いいただいてもかまいません。<br>リンク先のSign inでユーザー：dorikawa, パスワード：doridori2021, で入れます。</p>
+<p>では、１，のサーバーの確保です。<br>以下のリンクに飛んでGithubのアカウントを作りますが、ドリームかわちメンバーの皆様は、今見ているこのアカウントをお使いいただいてもかまいません。<br>リンク先のSign inでユーザー：dorikawa, パスワード：doridori2021, で入れます。</p>
 <p><a href="https://github.com/">Githubリンクhttps://github.com/</a><br>すでにアカウントをお持ちの場合は、ご自分のアカウントに飛ぶようです。</p>
 
 	</div>
