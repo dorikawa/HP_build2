@@ -124,7 +124,7 @@ p.note { display: none; }
 
 
 <!--ここから下が、本体部分-->
-<div style="background-color: rgba(128,255,255,0.8)";>  
+<div style="background-color:#EDF7FF;"> 
 <br><p>HPの作り方を簡単に説明します。<br>HPというのは大まかにいうと以下の２つの事で出来ています。<br>１，インターネットにつながったサーバー<br>
 ２，サーバー内に記載したHTMLソースコード<br>では、この二つを説明していきます。</p>
 
