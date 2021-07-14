@@ -230,7 +230,7 @@ URLのクリックでHPとして開きます。</h2></p>
 </div>
 
 <div style="background-color:rgba(255,255,0,0.6)"> 
-<p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></span></h2></p>
+<p><h2><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></h2></p>
 <p align="left"> <img src="https://dorikawa.github.io/HP_build/qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
 </div>
 
@@ -257,13 +257,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 
 
 <div style="background-color:rgba(128,255,255,0.8)"> 
-
-<!--
-<p>おまけ、背景原画</p>
-<a href="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
--->
-
-<br><br><br><p>さらにおまけ、瀧田先生の「森のくるまやさん」</p>
+<p>おまけ、瀧田先生の「森のくるまやさん」リンク</p>
 <h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。</a></h2>
 </div>
 <!--本体はここまで-->
