@@ -205,11 +205,11 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 </div>
 
 <br><br>
-<div style="background-color:rgba(0,255,0,0.5)"> 
-<p><h2>では、何か変更したら、最下段の緑のボタンを押すのを忘れずに！</h2></p>
+<div style="background-color:rgba(255,255,0,0.6)"> 
+<p><h2><marquee scrollamount="16">では、何か変更したら、最下段の緑のボタンを押すのを忘れずに！</marquee></h2></p>
 </div>
 
-<div style="background-color:rgba(255,255,0,0.6)"> 
+<div style="background-color:rgba(0,255,0,0.5)"> 
 <p><h2>最後にリポジトリに記載したHTMLソースコードをHPとして公開する方法の説明です。<br>
 以下の操作で、一般的なURLの表示までたどり着きます。<br>
 最初に上段右端のSettingを押します。</h2></p>
@@ -224,13 +224,19 @@ URLのクリックでHPとして開きます。</h2></p>
 </div>
 
 <br><br>
+<div style="background-color:rgba(128,255,255,0.8)"> 
 <p><h2>以上、ちょっと長くなりましたがここまでの作業を順番にこなすと、無料の広告なしHPが作れます。<br>
 ここまで読んでいただきありがとうございました！</h2></p>
+</div>
 
+<div style="background-color:rgba(255,255,0,0.6)"> 
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></span></h2></p>
 <p align="left"> <img src="https://dorikawa.github.io/HP_build/qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
+</div>
 
 <br><br><br><br>
+
+<div style="background-color:rgba(0,255,0,0.5)"> 
 <p><h2>最後にそこかしこに出てくるネコですが、<br>
 Githubのメインキャラ「オクトキャット」(タコ・ねこ)です。<br>
 このHPのQRコード真ん中にも配置してあります。<br>
@@ -239,6 +245,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 <p><a href="https://thegithubshop.com/">Githubのグッズ販売へのリンク</a></p>
 <p><h2>こんなのが売られています。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_017.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_017.png" alt="サンプル画像" width="900" /></a>
+</div>
 
 <br><br>
 
