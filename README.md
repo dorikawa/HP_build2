@@ -167,7 +167,7 @@ a.p:hover span {
 
 <div style="background-color:rgba(255,255,0,0.6)"> 
 <p><h2>では、肝心のYoutube動画のリンク方法です。<br>
-Youtubeにアップされている動画の閲覧画面下、共有ボタンを押します。</h2></p>
+Youtubeを開いて、そこにアップされている動画の閲覧画面下、共有ボタンを押します。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_010.jpg" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_010.jpg" alt="サンプル画像" width="900" /></a>
 <p><h2>ダイアログの中、埋め込むを選びます。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_011.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_011.png" alt="サンプル画像" width="900" /></a>
