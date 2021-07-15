@@ -115,19 +115,19 @@ width:960px;
 <body>
 <div id="wrap">
 
-<p class="note">
+<h2><p class="note"><span class="white">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
-</p>
+	</span></p></h2>
 
-	</div>
+
 <!--ここ上は、ほぼそのまま使います！-->
 
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="qr2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 	
-<div id="wrap">
+
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
