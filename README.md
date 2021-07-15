@@ -146,7 +146,7 @@ width:970px;
     </div> 
 
 <div style="background-color:rgba(255,255,0,0.6)"> 
-<p>では、１，のサーバーの確保です。<br>以下のリンクに飛んでGithubのアカウントを作りますが、ドリームかわちメンバーの皆様は、<br>今見ているこのアカウントをお使いいただいてもかまいません。<br>リンク先のSign inでユーザー：dorikawa, パスワード：doridori2021, で入れます。</p>
+<p>では、１，のサーバーの確保です。<br>以下のリンクに飛んでGithubのアカウントを作りますが、ドリームかわちメンバーの皆様は、今見ているこのアカウントをお使いいただいてもかまいません。<br>リンク先のSign inでユーザー：dorikawa, パスワード：doridori2021, で入れます。</p>
 <p><a href="https://github.com/" target="_blank" rel="noopener noreferrer">Githubリンクhttps://github.com/</a><br>すでにアカウントをお持ちの場合は、リンクのクリックでご自分のアカウントに飛ぶようです。</p>
 
 	</div>
