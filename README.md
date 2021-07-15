@@ -142,6 +142,7 @@ width:960px;
 
 	</div>
  
+<div id="wrap">	
 <div style="background-color:rgba(0,255,0,0.5)"> 
 <p>１，の続きですが、Githubのアカウント内にリポジトリ（≒HP）を作ります。</p>
 <p><h2>では、新しいリポジトリを作ってみましょう。<br>
@@ -270,6 +271,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 <p><h2>職人さん仕上げの作成見本です。</h2></p>
 <a href="20210715_001.png" data-lightbox="abc"><img src="20210715_001.png" alt="サンプル画像" width="900" /></a>
 
+</div>
 </div>
 <!--本体はここまで-->
 
