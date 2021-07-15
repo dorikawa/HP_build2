@@ -97,6 +97,11 @@ a.p:hover span {
    p.note { display: none; }
 }
 
+#wrap {
+margin:0 auto;
+width:960px;
+}
+	
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
