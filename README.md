@@ -59,7 +59,7 @@ background-color: rgba(0, 225, 0, 0.3);
     100% {opacity:1;}
 }
 
-/*#wrap {background:none} PC用の背景はオフ*/
+#wrap {background:none} /*PC用の背景はオフ*/
 	
 /*背景を指定する部分*/
 body::before {
