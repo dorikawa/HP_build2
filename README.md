@@ -59,10 +59,10 @@ background-color: rgba(0, 225, 0, 0.3);
     100% {opacity:1;}
 }
 
-#wrap {background:none} /*PC用の背景はオフ*/
+/*#wrap {background:none} PC用の背景はオフ*/
 	
 /*背景を指定する部分*/
-/*body::before {
+body::before {
   content:"";
   display:block;
   position:fixed;
@@ -73,11 +73,11 @@ background-color: rgba(0, 225, 0, 0.3);
   height:100vh;
   background:url(https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
-  }*/
+  }
 	
-body {
+/*body {
 background-image:url(https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG);
-}
+}*/
   
 a.p:hover {
     position: relative;
