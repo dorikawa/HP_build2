@@ -113,13 +113,14 @@ width:960px;
 </head>
 
 <body>
-
+<div id="wrap">
 
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
 
+	</div>
 <!--ここ上は、ほぼそのまま使います！-->
 
 
@@ -127,12 +128,12 @@ width:960px;
 <p align="left"> <img src="qr2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+<div id="wrap">
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! GithubでHPを作ろう !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->
-<div  id="wrap">
 	
 <div style="background-color:rgba(128,255,255,0.8)"> 
 <p>HPの作り方を簡単に説明します。<br>HPというのは大まかにいうと以下の２つの要素で出来ています。<br>１，インターネットにつながったサーバー<br>
