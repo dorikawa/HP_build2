@@ -97,6 +97,10 @@ a.p:hover span {
    p.note { display: none; }
 }
 
+article, aside, details, figcaption, figure, header, hgroup, menu, nav, section {
+display: block;
+}	
+
 #wrap {
 margin:0 auto;
 width:960px;
@@ -142,6 +146,8 @@ width:960px;
 
 	</div>
 
+
+	
 <div style="background-color:rgba(0,255,0,0.5)" id="wrap"> 
 <p>１，の続きですが、Githubのアカウント内にリポジトリ（≒HP）を作ります。</p>
 <p><h2>では、新しいリポジトリを作ってみましょう。<br>
