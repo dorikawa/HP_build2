@@ -126,9 +126,10 @@ width:960px;
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="qr2.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+	
+<div id="wrap">
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
-<div id="wrap">
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! GithubでHPを作ろう !!!</marquee></span></h1>
 
