@@ -93,7 +93,7 @@ a.p:hover span {
 }   
  
 
-@media	screen and (min-width: 520px),
+@media	screen and (min-width: 560px),
 	screen and (orientation: landscape) {
    p.note { display: none; }
 }
