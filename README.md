@@ -104,7 +104,7 @@ display: block;
 
 #wrap {
 margin:0 auto;
-width:960px;
+width:970px;
 }
 	
 </style>
