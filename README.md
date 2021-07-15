@@ -75,9 +75,6 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 	
-/*body {
-background-image:url(https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG);
-}*/
   
 a.p:hover {
     position: relative;
