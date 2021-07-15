@@ -247,14 +247,16 @@ URLのクリックでHPとして開きます。</h2></p>
 ここまで読んでいただきありがとうございました！<br><br>
 	HPの作り方を細かく知りたい方、良い情報がありましたので以下のリンク先からどうぞ。</h2></p>
 	<p><a href="https://sakichin.com/" target="_blank" rel="noopener noreferrer">HTMLやCSSなどの説明サイトへのリンク、別のタブで開きます。</a></p>
+	<br>
 </div>
 
+<br><br>
 <div style="background-color:rgba(255,255,0,0.6)"> 
 <p><h2><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！簡単なご質問でしたら答えられます。以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></h2></p>
 <p align="left"> <img src="https://dorikawa.github.io/HP_build/qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <div style="background-color:rgba(0,255,0,0.5)"> 
 <p><h2>最後にそこかしこに出てくるネコですが、<br>
