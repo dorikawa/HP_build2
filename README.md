@@ -146,7 +146,7 @@ width:960px;
 
 <div style="background-color:rgba(255,255,0,0.6)"> 
 <p>では、１，のサーバーの確保です。<br>以下のリンクに飛んでGithubのアカウントを作りますが、ドリームかわちメンバーの皆様は、今見ているこのアカウントをお使いいただいてもかまいません。<br>リンク先のSign inでユーザー：dorikawa, パスワード：doridori2021, で入れます。</p>
-<p><a href="https://github.com/">Githubリンクhttps://github.com/</a><br>すでにアカウントをお持ちの場合は、リンクのクリックでご自分のアカウントに飛ぶようです。</p>
+<p><a href="https://github.com/" target="_blank" rel="noopener noreferrer">Githubリンクhttps://github.com/</a><br>すでにアカウントをお持ちの場合は、リンクのクリックでご自分のアカウントに飛ぶようです。</p>
 
 	</div>
 
@@ -244,11 +244,13 @@ URLのクリックでHPとして開きます。</h2></p>
 <br><br>
 <div style="background-color:rgba(128,255,255,0.8)"> 
 <p><h2>以上、ちょっと長くなりましたがここまでの作業を順番にこなすと、無料の広告なしHPが作れます。<br>
-ここまで読んでいただきありがとうございました！</h2></p>
+ここまで読んでいただきありがとうございました！<br><br>
+	HPの作り方を細かく知りたい方、良い情報がありましたので以下のリンク先からどうぞ。</h2></p>
+	<p><a href="https://sakichin.com/" target="_blank" rel="noopener noreferrer">HTMLやCSSなどの説明サイトへのリンク、別のタブで開きます。</a></p>
 </div>
 
 <div style="background-color:rgba(255,255,0,0.6)"> 
-<p><h2><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></h2></p>
+<p><h2><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！簡単なご質問でしたら答えられます。以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></h2></p>
 <p align="left"> <img src="https://dorikawa.github.io/HP_build/qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
 </div>
 
