@@ -275,7 +275,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 <div style="background-color:rgba(128,255,255,0.8)"> 
 <p>おまけ、ドリームかわち水泳教室、瀧田先生の「森のくるまやさん」リンク</p>
 <h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。<br>オプション部品は¥200とのこと。</a></h2>
-<p><h2>職人さん仕上げの作成見本です。</h2></p>
+<p><h2>職人さん仕上げの完成見本です。</h2></p>
 <a href="20210715_001.png" data-lightbox="abc"><img src="20210715_001.png" alt="サンプル画像" width="900" /></a>
 
 </div>
