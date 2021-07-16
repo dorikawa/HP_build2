@@ -196,7 +196,7 @@ Youtubeを開いて、そこにアップされている動画の閲覧画面下�
 <p><h2>最初にコピペしたHPのソースコード中段に並んでいるものがこれです。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_013.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_013.png" alt="サンプル画像" width="900" /></a>
 
-<p><h2>Githubは動画共有に対応していないので、動画の配信はYoutubeを活用します。</h2></p>
+<p><h2>Githubは動画共有に対応していないので、動画はYoutubeを活用するという訳です。</h2></p>
 </div>
 
 <div style="background-color:rgba(0,255,0,0.5)"> 
