@@ -265,7 +265,7 @@ Githubのメインキャラ「オクトキャット」(タコ・ねこ)です。
 このHPのQRコード真ん中にも配置してあります。<br>
 Net技術者の間ではすでに当たり前のキャラで、グッズも販売されています。<br>
 気になる方は、以下のリンクから購入できますので、よろしければどうぞ！</h2></p>
-<p><a href="https://thegithubshop.com/">Githubのグッズ販売へのリンク</a></p>
+<p><a href="https://thegithubshop.com/" target="_blank" rel="noopener noreferrer">Githubのグッズ販売へのリンク</a></p>
 <p><h2>こんなのが売られています。</h2></p>
 <a href="https://dorikawa.github.io/HP_build/20210709_017.png" data-lightbox="abc"><img src="https://dorikawa.github.io/HP_build/20210709_017.png" alt="サンプル画像" width="900" /></a>
 </div>
