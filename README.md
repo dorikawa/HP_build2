@@ -114,7 +114,7 @@ width:970px;
 </head>
 
 <body>
-<div id="wrap">
+<!--<div id="wrap">-->
 
 <h2><p class="note"><span class="white">
   モバイル端末をお使いの場合は、画面を横向きにすると
@@ -286,7 +286,7 @@ Net技術者の間ではすでに当たり前のキャラで、グッズも販�
 <a href="20210715_001.png" data-lightbox="abc"><img src="20210715_001.png" alt="サンプル画像" width="900" /></a>
 
 </div>
-</div>
+<!--</div>-->
 <!--本体はここまで-->
 
 
